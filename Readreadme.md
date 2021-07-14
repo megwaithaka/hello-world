@@ -1,6 +1,6 @@
 <h1>Learning Markdown</h1>
 
-<p>unordered list:</p>
+<p>Unordered list:</p>
 
 <ul>
 <li>Name</li>
@@ -8,15 +8,15 @@
 <li>Address</li>
 </ul>
 
-<p>An <a href="http://google.com">Google</a>.</p>
-<p>An <a href="http://gmail.com">Gmail</a>.</p>
+<p><a href="http://google.com">Google</a>.</p>
+<p><a href="http://gmail.com">Gmail</a>.</p>
 
-<p>unordered list:</p>
+<p>Ordered list:</p>
 
 <ol>
-<li>lather</li>
-<li>rinse</li>
-<li>repeat</li>
+<li>Name</li>
+<li>Email Address</li>
+<li>Phone Number</li>
 </ol>
 
 <p>Table</p>
